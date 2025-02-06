@@ -3,6 +3,11 @@
   "dependencies": {
     "dotenv": "^16.4.7",
     "node-telegram-bot-api": "^0.66.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
-
