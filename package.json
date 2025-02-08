@@ -2,12 +2,14 @@
   "type": "module",
   "dependencies": {
     "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "node": "^23.7.0",
     "node-telegram-bot-api": "^0.66.0"
   },
   "scripts": {
     "start": "node app.js"
   },
   "engines": {
-    "node": ">=18.0.0 <19.0.0"
+    "node": ">=20.0.0"
   }
 }
